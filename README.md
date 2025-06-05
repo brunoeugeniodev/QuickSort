@@ -55,12 +55,3 @@ A implementação correta da função de separação deve garantir:
 ## 📌 Conclusão
 A análise comparativa do **QuickSort** permitiu entender os desafios de diferentes abordagens e como pequenas mudanças na implementação podem impactar o desempenho e a correção do algoritmo. A versão **iterativa** pode ser mais eficiente para vetores grandes, enquanto a versão **recursiva** é mais intuitiva para implementações menores.
 
----
-
-### 🛠 Como Usar
-
-1. **Crie um arquivo chamado** `README.md`.
-2. **Copie e cole** o conteúdo acima.
-3. **Salve o arquivo** e adicione ao seu repositório no GitHub.
-
-Se precisar de mais ajustes ou explicações, só chamar! 🚀😊
